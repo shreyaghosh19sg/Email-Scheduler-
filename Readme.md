@@ -97,8 +97,6 @@ emailSchedular/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YogeshJadhav1729/emailSchedular.git
-cd emailSchedular
 ```
 
 ### 2. Start Docker Services
