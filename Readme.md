@@ -196,7 +196,7 @@ npm run dev
 
 ## 📧 Setting Up Ethereal Email
 
-1. Go to https://ethereal.email
+1. Go to https://Email-Schedular.email
 2. Click "Create Ethereal Account"
 3. Copy the credentials (username and password)
 4. Update backend `.env`:
