@@ -453,13 +453,7 @@ npm run worker
 
 ---
 
-## 📚 Additional Resources
 
-- [BullMQ Documentation](https://docs.bullmq.io/)
-- [Prisma Documentation](https://www.prisma.io/docs)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Google OAuth Setup](https://developers.google.com/identity/protocols/oauth2)
-- [Ethereal Email](https://ethereal.email)
 
 ---
 
